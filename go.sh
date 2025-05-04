@@ -8,7 +8,7 @@ dirs=(
   "assets/fonts"
 )
 
-touch index.html style.css
+touch index.html style.css main.js
 
 # Loop through array and create each directory
 for dir in "${dirs[@]}"; do
