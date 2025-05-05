@@ -17,3 +17,4 @@ done
 
 echo "All folders created under: $PROJECT_ROOT"
 live-server
+echo "Project Started Enjoy ✨"
